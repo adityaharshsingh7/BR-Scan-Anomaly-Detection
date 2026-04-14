@@ -66,3 +66,4 @@ This image showcases how the AI identifies regions of interest within a BR-Scan,
 This project served as the core technical deliverable for my Software Development Engineering Internship at **D3S Healthcare Technologies**, which began on January 19, 2024. It also contributes to my technical portfolio as a final-year B.Sc. (Hons) Computer Science student at the **United World Institute of Technology (UIT), Karnavati University**.
 
 -----
+#link to my collab:https://colab.research.google.com/drive/10xIUXLF-oOQosdw_SbusZS7bBlF4WOHT?usp=sharing
