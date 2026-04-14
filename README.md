@@ -11,6 +11,26 @@ The **BR-Scan Diagnostic Engine** is a specialized computer vision solution engi
 By developing a custom **Statistical Baseline Anomaly Detector**, this engine identifies malignant tissue shadows with high precision while neutralizing anatomical interference.
 
 -----
+### 📂 Dataset Sample
+This image showcases how the AI identifies regions of interest within a BR-Scan, highlighting areas of high tissue density or irregular vascular patterns.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Image 1: Healthy</b></td>
+      <td align="center"><b>Image 2: Unhealthy</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/healthy.png" width="300px" alt="Healthy Scan"/></td>
+      <td><img src="assets/unhealthy.png" width="300px" alt="Unhealthy Scan"/></td>
+    </tr>
+    <tr>
+      <td align="center">Confidence: 92.15%</td>
+      <td align="center">Malignancy Prob: 78.40%</td>
+    </tr>
+  </table>
+</div>
+
+-----
 
 ## 🛠️ Technical Innovations
 
