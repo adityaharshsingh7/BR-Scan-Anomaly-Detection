@@ -24,7 +24,8 @@ By developing a custom **Statistical Baseline Anomaly Detector**, this engine id
 
 *Samples of the red-light transillumination scans showing the contrast between healthy tissue and pathological anomalies.*
 
-> **[Upload your dataset sample image to the assets folder and add the path here, e.g., `![Dataset Sample](assets/dataset_sample.png)`]**
+> **<img src="assets/Healthy_detected.png" width="3000px" alt="Healthy"/>**
+> **<img src="assets/unhealthy_detected.png" width="3000px" alt="Unhealthy"/>**
 
 -----
 
@@ -46,6 +47,7 @@ By developing a custom **Statistical Baseline Anomaly Detector**, this engine id
 | **Processing Time** | Near Real-Time Inference |
 | **Model Foundation** | Statistical Differential + OpenCV |
 
+**<img src="assets/dashboard_result.png" width="3000px" alt="Dashboard"/>**
 -----
 
 ## 💻 Tech Stack
