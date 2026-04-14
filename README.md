@@ -63,11 +63,3 @@ By developing a custom **Statistical Baseline Anomaly Detector**, this engine id
 This project served as the core technical deliverable for my Software Development Engineering Internship at **D3S Healthcare Technologies**, which began on January 19, 2024. It also contributes to my technical portfolio as a final-year B.Sc. (Hons) Computer Science student at the **United World Institute of Technology (UIT), Karnavati University**.
 
 -----
-
-### **How to ensure the image reflects:**
-
-1.  Verify the folder name is exactly `assets` (lowercase).
-2.  Verify the filename is exactly `dashboard_result.png`.
-3.  Commit and push both the `assets` folder and this `README.md` to the same branch (e.g., `main`).
-
-**Since this is ready for your "flaunt" on GitHub, would you like me to help you draft a short, punchy LinkedIn post to share the link to this repository?**
