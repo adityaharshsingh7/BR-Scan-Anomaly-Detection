@@ -1,5 +1,3 @@
-This `README.md` is structured to highlight the technical complexity and the successful **97.1% accuracy milestone** you achieved during your internship. Use the code block below to copy and paste directly into your GitHub repository.
-
 -----
 
 # BR-Scan: AI-Powered Diagnostic Engine for Breast Anomaly Detection
@@ -11,21 +9,6 @@ This `README.md` is structured to highlight the technical complexity and the suc
 The **BR-Scan Diagnostic Engine** is a specialized computer vision solution engineered for proprietary medical hardware using red-light transillumination. This project addresses the "Domain Gap" where standard deep learning models (trained on traditional Ultrasound or X-ray data) fail to accurately interpret the unique red-light spectrum.
 
 By developing a custom **Statistical Baseline Anomaly Detector**, this engine identifies malignant tissue shadows with high precision while neutralizing anatomical interference.
-
------
-
-## 📸 Project Visuals
-
-### 📊 Diagnostic Dashboard
-
-*The final inference interface displaying the anomaly detection mask, the 15% threshold calculation, and the final classification output.*
-
-### 📂 Dataset Sample
-
-*Samples of the red-light transillumination scans showing the contrast between healthy tissue and pathological anomalies.*
-
-> **<img src="assets/Healthy_detected.png" width="3000px" alt="Healthy"/>**
-> **<img src="assets/unhealthy_detected.png" width="3000px" alt="Unhealthy"/>**
 
 -----
 
